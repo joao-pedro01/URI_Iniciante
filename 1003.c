@@ -1,11 +1,11 @@
 /*
-    Leia dois valores inteiros, no caso para vari·veis A e B. A seguir, calcule a soma entre elas e atribua ‡ vari·vel SOMA. A seguir escrever o valor desta vari·vel.
+    Leia dois valores inteiros, no caso para vari√°veis A e B. A seguir, calcule a soma entre elas e atribua √† vari√°vel SOMA. A seguir escrever o valor desta vari√°vel.
 
     Entrada
-    O arquivo de entrada contÈm 2 valores inteiros.
+    O arquivo de entrada cont√©m 2 valores inteiros.
 
-    SaÌda
-    Imprima a mensagem "SOMA" com todas as letras mai˙sculas, com um espaÁo em branco antes e depois da igualdade seguido pelo valor correspondente ‡ soma de A e B. Como todos os problemas, n„o esqueÁa de imprimir o fim de linha apÛs o resultado, caso contr·rio, vocÍ receber· "Presentation Error".
+    Sa√≠da
+    Imprima a mensagem "SOMA" com todas as letras mai√∫sculas, com um espa√ßo em branco antes e depois da igualdade seguido pelo valor correspondente √† soma de A e B. Como todos os problemas, n√£o esque√ßa de imprimir o fim de linha ap√≥s o resultado, caso contr√°rio, voc√™ receber√° "Presentation Error".
 */
 #include <stdio.h>
  
@@ -18,7 +18,7 @@ int main() {
 
     SOMA = A + B;
 
-    printf ("SOMA = %i", SOMA);
+    printf ("SOMA = %i\n", SOMA);
     
     return 0;
 }
