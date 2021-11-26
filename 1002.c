@@ -11,7 +11,8 @@
 */
 #include <stdio.h>
  
-int main() {
+int main() 
+{
  
     double area, n, raio;
 

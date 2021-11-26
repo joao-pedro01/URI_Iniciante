@@ -9,7 +9,8 @@
 */
 #include <stdio.h>
  
-int main() {
+int main() 
+{
  
     int A, B, X;
 
